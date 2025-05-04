@@ -1,5 +1,7 @@
 # Shadow Broker ($REDROY)
 
+![REDROY Logo](redroy-logo.png)
+
 Shadow Broker is a dark-humored, narrative-driven meme coin born from the depths of Solana.  
 It's a symbol. A shadow. A whisper. And sometimes... a flame.
 
