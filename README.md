@@ -4,7 +4,7 @@ Shadow Broker is a dark-humored, narrative-driven meme coin born from the depths
 It's a symbol. A shadow. A whisper. And sometimes... a flame.
 
 ## Token Details
-- **Token Name:** ShadowBroker  
+- **Token Name:** Shadow Broker  
 - **Ticker:** $REDROY  
 - **Network:** Solana  
 - **Decimals:** 9  
